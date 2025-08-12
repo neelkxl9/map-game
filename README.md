@@ -9,15 +9,5 @@ No maps, no graphics — just pure guessing fun in the terminal!
 3. If your guess is correct, you win!
 4. If it's wrong, keep guessing until you get it right
 
-#Example run
-=== MAP GAME ===
-Guess the country!
-Your guess: India
-Wrong! Try again.
-Your guess: Brazil
-Correct! It was Brazil.
 
-shell
-Copy
-Edit
 
